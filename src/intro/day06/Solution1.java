@@ -1,7 +1,7 @@
 package intro.day06;
 
 /*
-
+ddd
  */
 public class Solution1 {
 
